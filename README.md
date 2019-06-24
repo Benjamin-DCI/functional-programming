@@ -362,11 +362,6 @@ uniqString('hey'); //true
 uniqString('hello'); //false
 ```
 
-## Lodash
-Lodash is a popular JavaScript library that gives you many more advanced array methods, as well as built in 'composition' (which Lodash calls 'flow') and 'currying' functions amongst many other helpful functional programming methods.
-
-Checkout the [Lodash npm page](https://www.npmjs.com/package/lodash) and [Lodash official docs](https://lodash.com/docs/4.16.4) for more info.
-
 # Resources
 - [An Introduction to Functional JavaScript](https://www.sitepoint.com/introduction-functional-javascript/)
 - [Mastering the JavaScript interview: What is a pure function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.972tnotik)
